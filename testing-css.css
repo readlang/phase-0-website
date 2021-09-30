@@ -1,0 +1,24 @@
+.grid-container {
+    display: grid;
+    grid-template-columns: 250px 800px;
+    grid-auto-rows: minmax(150px, auto);
+    gap: 20px;
+    background: blueviolet;
+    justify-content: center;
+    
+}
+
+.grid-item-1 {
+    grid-column: span 1;
+
+    background: coral;
+}
+
+.grid-item-2 {
+    grid-row: span 1;
+    background: lightblue;
+}
+
+.grid-item-3 {
+    
+}

@@ -1,4 +1,51 @@
 body {
-    background: rgb(255, 153, 69);
+    background: lightgrey;
     font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
 }
+
+img#logo {
+    width: 100px; 
+    height: 100px;
+    position: absolute;
+    left: 40px;
+}
+
+span#pageTitle {
+    font-size: 50px;
+    font-weight: 900;
+    position: absolute;
+    left: 200px;
+    }
+
+ul#sideNav {
+    
+    position: absolute;
+    top: 140px;
+    left: -30px;
+    line-height: 40px;
+    list-style-type: none;    
+    
+}
+
+div#mainContent {
+    position: absolute;
+    left: 200px;
+    top: 165px;
+}
+
+img#mainPhoto {
+    width: 900px;
+}
+
+h1#hikeName {
+
+}
+
+div#hikeDescription {
+    font-style: italic;
+    font-family: Arial, Helvetica, sans-serif;
+}
+
+
+
+
