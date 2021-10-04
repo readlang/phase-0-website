@@ -1,6 +1,7 @@
 body {
     background: lightgrey;
-    font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif
+    /*  font-family:'Franklin Gothic Medium', 'Arial Narrow', Arial, sans-serif  */
+    font-family: 'Work Sans', sans-serif; 
 }
 
 .grid-container {
